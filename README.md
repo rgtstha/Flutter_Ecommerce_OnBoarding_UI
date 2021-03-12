@@ -8,7 +8,7 @@ E-commerce Onboarding Screen UI Design using flutter. You can learn different th
 
 
 # Packages Used:-
-  - [StaggeredGridView?](https://pub.dev/packages/flutter_staggered_grid_view) - for loading SVG assets images.
+  - [Flutter_svg](https://pub.dev/packages/flutter_svg) - for loading SVG assets images.
 
 
 # Screenshots
